@@ -1,9 +1,26 @@
-# DSA codes 
+# DSA Practice
 
-I am solving the DSA problem in leetcode and keep sharing in my this Repository.
+This repository contains my Data Structures and Algorithms (DSA) solutions in C++.
 
-## Technologies Used
-- C++
+---
 
-## Author
-Abdus Salam Talukder
+## 📁 Structure
+
+```
+DSA/
+├── Arrays/
+├── Strings/
+└── ...
+```
+
+---
+
+## 🛠 Language used
+
+* C++
+
+---
+
+## 🚀 Goal
+
+Practice DSA and improve problem-solving skills.
