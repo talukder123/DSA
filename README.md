@@ -1,6 +1,7 @@
 # DSA Practice
 
-This repository contains my Data Structures and Algorithms (DSA) solutions in C++.
+This repository contains my Data Structures and Algorithms (DSA) solutions in C++. <br>
+I used Leetcode to practice DSA problems 
 
 ---
 
@@ -24,5 +25,4 @@ DSA/
 ## 🚀 Goal
 
 
-I used Leetcode to practice DSA problems <br>
 Practice DSA and improve problem-solving skills.
