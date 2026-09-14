@@ -1,28 +1,20 @@
-# DSA Practice
+Sure — you can add your LeetCode profile alongside GitHub:
 
-This repository contains my Data Structures and Algorithms (DSA) solutions in C++. <br>
-I used Leetcode to practice DSA problems 
+# 🧠 Data Structures & Algorithms
 
----
+A collection of my **Data Structures and Algorithms (DSA)** practice, including problem-solving exercises, implementations, and algorithmic concepts.
 
-## 📁 Structure
+This repository documents my progress in improving my **problem-solving skills, logical thinking, and programming fundamentals**.
 
-```
-DSA/
-├── Arrays/
-├── Strings/
-└── ...
-```
-
----
-
-## 🛠 Language used
+## 🛠️ Language
 
 * C++
 
----
+## 🔗 Profiles
 
-## 🚀 Goal
+* GitHub: [@talukder123](https://github.com/talukder123)
+* LeetCode: [@talukder123](https://leetcode.com/u/Salam_151/)
 
+## 👨‍💻 Author
 
-Practice DSA and improve problem-solving skills.
+**Abdus Salam Talukder**
